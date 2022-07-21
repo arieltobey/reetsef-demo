@@ -1,0 +1,420 @@
+"id","tou_start","tou_end","rate","tariff_type","tariff_name","rate_units","charge_type_id","weekdays","tariff_group_id","start_date","end_date","loss_factor"
+52,"flat rate","flat rate",0.2772,"Environmental Schemes","Greenpower (6%)","CENTS_PER_KWH",66,"FALSE",109,"2019-01-01","2020-07-01",1.046
+55,"flat rate","flat rate",0.0368,"Market Operator Charges","AEMO Market Fee","CENTS_PER_KWH",7,"FALSE",109,"2019-01-01","2020-07-01",1.046
+56,"flat rate","flat rate",0.3633,"Market Operator Charges","AEMO Daily Market Fee","CENTS_PER_DAY",175,"TRUE",109,"2019-01-01","2020-07-01",1
+57,"flat rate","flat rate",0.1274,"Market Operator Charges","AEMO Ancilliary Fee","CENTS_PER_KWH",6,"FALSE",109,"2019-01-01","2020-07-01",1.046
+59,"flat rate","flat rate",33400,"Metering Charges","Meter Charge","CENTS_PER_ANNUM",10,"TRUE",109,"2019-01-01","2020-07-01",1
+65,"flat rate","flat rate",640.585,"Retail Supply Charge","Supply Charge","CENTS_PER_DAY",41,"FALSE",113,"2018-07-01","2022-07-01",1
+66,"flat rate","flat rate",0.4686,"GreenPower Charge","6% GreenPower","CENTS_PER_KWH",66,"FALSE",113,"2018-07-01","2022-07-01",1
+67,"05:00:00 PM","07:59:59 PM",28.9432,"Retail ToU Charge","Peak Usage","CENTS_PER_KWH",4,"TRUE",113,"2018-07-01","2022-07-01",1
+85,"flat rate","flat rate",2265,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",97,"2020-07-01","2021-07-01",1
+86,"flat rate","flat rate",2265,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",97,"2020-07-01","2021-07-01",1
+87,"4:00:00 PM","8:00:00 PM",4.2563,"Energy Charge","TUOS High-season Peak","CENTS_PER_KWH",87,"TRUE",97,"2020-07-01","2021-07-01",1
+88,"4:00:00 PM","8:00:00 PM",3.6657,"Energy Charge","TUOS Low-season Peak","CENTS_PER_KWH",87,"TRUE",97,"2020-07-01","2021-07-01",1
+89,"12:00:00 AM","11:59:59 PM",2.2511,"Energy Charge","TUOS Off Peak","CENTS_PER_KWH",89,"FALSE",97,"2020-07-01","2021-07-01",1
+90,"4:00:00 PM","8:00:00 PM",974.55,"Demand Charge","High-season","CENTS_PER_KVA_MONTH",30,"TRUE",97,"2020-07-01","2021-07-01",1
+91,"4:00:00 PM","8:00:00 PM",821.25,"Demand Charge","Low-season","CENTS_PER_KVA_MONTH",31,"TRUE",97,"2020-07-01","2021-07-01",1
+92,"flat rate","flat rate",2054,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",98,"2019-06-29","2020-05-30",1
+93,"flat rate","flat rate",2054,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",98,"2019-07-01","2020-07-01",1
+99,"flat rate","flat rate",1872.9,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",101,"2018-07-01","2019-07-01",1
+100,"flat rate","flat rate",1872.9,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",101,"2018-07-01","2019-07-01",1
+101,"01:00:00 PM","07:59:59 PM",2.2687,"Energy Charge","Peak","CENTS_PER_KWH",21,"TRUE",101,"2018-07-01","2019-07-01",1
+102,"07:00:00 AM","12:59:59 PM",2.15,"Energy Charge","Shoulder-1","CENTS_PER_KWH",22,"TRUE",101,"2018-07-01","2019-07-01",1
+103,"07:59:59 PM","09:59:59 PM",2.15,"Energy Charge","Shoulder-2","CENTS_PER_KWH",22,"TRUE",101,"2018-07-01","2019-07-01",1
+104,"12:00:00 AM","11:59:59 PM",2.0312,"Energy Charge","Off-Peak","CENTS_PER_KWH",105,"FALSE",101,"2018-07-01","2019-07-01",1
+109,"flat rate","flat rate",1872.9,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",102,"2017-07-01","2018-07-01",1
+110,"flat rate","flat rate",1872.9,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",102,"2017-07-01","2018-07-01",1
+111,"1:00:00 PM","07:59:59 PM",3.37,"Energy Charge","Peak","CENTS_PER_KWH",21,"TRUE",102,"2017-07-01","2018-07-01",1
+113,"12:00:00 AM","11:59:59 PM",1.4,"Energy Charge","Off-Peak","CENTS_PER_KWH",105,"FALSE",102,"2017-07-01","2018-07-01",1
+114,"01:00:00 PM","07:59:59 PM",1162,"Demand Charge","High-season-1","CENTS_PER_KVA_MONTH",30,"TRUE",102,"2017-07-01","2018-07-01",1
+115,"01:00:00 PM","07:59:59 PM",1162,"Demand Charge","High-season-2","CENTS_PER_KVA_MONTH",30,"TRUE",102,"2017-07-01","2018-07-01",1
+116,"01:00:00 PM","07:59:59 PM",1014,"Demand Charge","Low-season-1","CENTS_PER_KVA_MONTH",31,"TRUE",102,"2017-07-01","2018-07-01",1
+117,"01:00:00 PM","07:59:59 PM",1014,"Demand Charge","Low-season-2","CENTS_PER_KVA_MONTH",31,"TRUE",102,"2017-07-01","2018-07-01",1
+118,"flat rate","flat rate",1845,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",34,"2016-07-01","2017-07-01",1
+119,"flat rate","flat rate",1845,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",34,"2016-07-01","2017-07-01",1
+120,"01:00:00 PM","07:59:59 PM",3.54,"Energy Charge","Peak","CENTS_PER_KWH",21,"TRUE",34,"2016-07-01","2017-07-01",1
+121,"07:00:00 AM","12:59:59 PM",3.12,"Energy Charge","Shoulder-1","CENTS_PER_KWH",22,"TRUE",34,"2016-07-01","2017-07-01",1
+122,"08:00:00 PM","09:59:59 PM",3.12,"Energy Charge","Shoulder-2","CENTS_PER_KWH",22,"TRUE",34,"2016-07-01","2017-07-01",1
+123,"12:00:00 AM","11:59:59 PM",1.41,"Energy Charge","Off-Peak","CENTS_PER_KWH",105,"FALSE",34,"2016-07-01","2017-07-01",1
+124,"01:00:00 PM","07:59:59 PM",1087,"Demand Charge","High-season-1","CENTS_PER_KVA_MONTH",30,"TRUE",34,"2016-07-01","2017-07-01",1
+125,"01:00:00 PM","07:59:59 PM",1087,"Demand Charge","High-season-2","CENTS_PER_KVA_MONTH",30,"TRUE",34,"2016-07-01","2017-07-01",1
+126,"01:00:00 PM","07:59:59 PM",950,"Demand Charge","Low-season-1","CENTS_PER_KVA_MONTH",31,"TRUE",34,"2016-07-01","2017-07-01",1
+127,"01:00:00 PM","07:59:59 PM",950,"Demand Charge","Low-season-2","CENTS_PER_KVA_MONTH",31,"TRUE",34,"2016-07-01","2017-07-01",1
+128,"flat rate","flat rate",1840,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",103,"2015-07-01","2016-07-01",1
+129,"flat rate","flat rate",1840,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",103,"2015-07-01","2016-07-01",1
+130,"01:00:00 PM","07:59:59 PM",4.0513,"Energy Charge","Peak","CENTS_PER_KWH",21,"TRUE",103,"2015-07-01","2016-07-01",1
+131,"07:00:00 AM","12:59:59 PM",3.0021,"Energy Charge","Shoulder-1","CENTS_PER_KWH",22,"TRUE",103,"2015-07-01","2016-07-01",1
+132,"08:00:00 PM","09:59:59 PM",3.0021,"Energy Charge","Shoulder-2","CENTS_PER_KWH",22,"TRUE",103,"2015-07-01","2016-07-01",1
+133,"12:00:00 AM","11:59:59 PM",1.2982,"Energy Charge","Off-Peak","CENTS_PER_KWH",105,"FALSE",103,"2015-07-01","2016-07-01",1
+134,"01:00:00 PM","07:59:59 PM",1030.26,"Demand Charge","High-season-1","CENTS_PER_KVA_MONTH",30,"TRUE",103,"2015-07-01","2016-07-01",1
+135,"01:00:00 PM","07:59:59 PM",1030.26,"Demand Charge","High-season-2","CENTS_PER_KVA_MONTH",30,"TRUE",103,"2015-07-01","2016-07-01",1
+136,"01:00:00 PM","07:59:59 PM",957.91,"Demand Charge","Low-season-1","CENTS_PER_KVA_MONTH",31,"TRUE",103,"2015-07-01","2016-07-01",1
+137,"01:00:00 PM","07:59:59 PM",957.91,"Demand Charge","Low-season-2","CENTS_PER_KVA_MONTH",31,"TRUE",103,"2015-07-01","2016-07-01",1
+152,"flat rate","flat rate",1689.5293,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",105,"2020-07-01","2021-07-01",1
+153,"flat rate","flat rate",1689.5293,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",105,"2020-07-01","2021-07-01",1
+154,"2:00:00 PM","8:00:00 PM",6.3317,"Network Energy Price","Peak summer","CENTS_PER_KWH",21,"TRUE",105,"2020-07-01","2021-07-01",1
+155,"5:00:00 PM","8:59:59 PM",6.3317,"Network Energy Price","Peak winter","CENTS_PER_KWH",21,"TRUE",105,"2020-07-01","2021-07-01",1
+156,"7:00:00 AM","10:00:00 PM",2.3217,"Network Energy Price","Shoulder","CENTS_PER_KWH",22,"TRUE",105,"2020-07-01","2021-07-01",1
+157,"12:00:00 AM","11:59:59 PM",1.1388,"Network Energy Price","Off-Peak","CENTS_PER_KWH",23,"FALSE",105,"2020-07-01","2021-07-01",1
+158,"2:00:00 PM","8:00:00 PM",33.5489,"Network Capacity Price","Peak High Season-1","CENTS_PER_KVA_PER_DAY",30,"TRUE",105,"2020-07-01","2021-07-01",1
+159,"flat rate","flat rate",33.5489,"Network Capacity Price","Peak High Season-2","CENTS_PER_KVA_PER_DAY",25,"TRUE",105,"2020-07-01","2021-07-01",1
+160,"2:00:00 PM","8:00:00 PM",33.5489,"Network Capacity Price","Peak Low Season-1","CENTS_PER_KVA_PER_DAY",31,"TRUE",105,"2020-07-01","2021-07-01",1
+161,"2:00:00 PM","8:00:00 PM",33.5489,"Network Capacity Price","Peak Low Season-2","CENTS_PER_KVA_PER_DAY",31,"TRUE",105,"2020-07-01","2021-07-01",1
+192,"02:00:00 PM","07:59:59 PM",4.9379,"Network Energy Price","Peak","CENTS_PER_KWH",21,"TRUE",108,"2016-07-01","2017-07-01",1
+193,"07:00:00 AM","01:59:59 PM",2.4205,"Network Energy Price","Shoulder-1","CENTS_PER_KWH",22,"TRUE",108,"2016-07-01","2017-07-01",1
+194,"8:00:00 PM","09:59:59 PM",2.4205,"Network Energy Price","Shoulder-2","CENTS_PER_KWH",22,"TRUE",108,"2016-07-01","2017-07-01",1
+205,"07:00:00 AM","06:59:59 PM",2.422,"Network Tariff Component","Summer Peak Energy (c/kWh)","CENTS_PER_KWH",21,"TRUE",62,"2014-11-01","2015-03-31",1
+206,"07:00:00 AM","06:59:59 PM",2.004,"Network Tariff Component","Non Summer Peak Energy Block 1 (c/kWh)","CENTS_PER_KWH",21,"TRUE",89,"2015-07-01","2015-10-31",1
+207,"07:00:00 AM","06:59:59 PM",2.004,"Network Tariff Component","Non Summer Peak Energy Block 2 (c/kWh)","CENTS_PER_KWH",21,"TRUE",27,"2015-04-01","2015-06-30",1
+208,"12:00:00 AM","06:59:59 AM",1.114,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",23,"TRUE",39,"2015-01-01","2015-12-31",1
+209,"07:00:00 PM","11:59:59 PM",1.114,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",105,"FALSE",39,"2015-01-01","2015-12-31",1
+210,"12:00:00 AM","06:59:59 AM",1.114,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",23,"TRUE",39,"2015-01-01","2015-12-31",1
+211,"07:00:00 AM","05:59:59 PM",17.877,"Network Tariff Component","Rolling Peak Demand c/kVA/day","CENTS_PER_KVA_PER_DAY",29,"TRUE",39,"2015-01-01","2015-12-31",1
+212,"03:00:00 PM","04:59:59 PM",26.109,"Network Tariff Component","Summer Demand Incentive Charge c/kW/day or c/kVA/day","CENTS_PER_KVA_PER_DAY",74,"TRUE",62,"2014-11-01","2015-03-31",1
+213,"12:00:00 AM","11:59:59 PM",7.2,"Network Tariff Component","PFIT Recovery Charge","CENTS_PER_DAY",38,"TRUE",39,"2015-01-01","2015-12-31",1
+215,"07:00:00 AM","10:59:59 PM",4.3148,"Retail ToU Charge","Peak Energy","CENTS_PER_KWH",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+216,"11:00:00 PM","11:59:59 PM",2.6647,"Retail ToU Charge","Off Peak Energy-1","CENTS_PER_KWH",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+217,"12:00:00 AM","06:59:59 AM",2.6647,"Retail ToU Charge","Off Peak Energy-1","CENTS_PER_KWH",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+218,"12:00:00 AM","11:59:59 PM",2.6647,"Retail ToU Charge","Off Peak Energy-2","CENTS_PER_KWH",NULL,"FALSE",22,"2015-01-01","2018-12-31",1
+219,"flat rate","flat rate",0.00312,"Market Charge","Market Fee Ancillary Services","CENTS_PER_KWH",NULL,"FALSE",22,"2015-01-01","2018-12-31",1
+220,"flat rate","flat rate",0.03247,"Market Charge","Market Fee Pool","CENTS_PER_KWH",NULL,"FALSE",22,"2015-01-01","2018-12-31",1
+221,"flat rate","flat rate",0.2947,"Environmetal Charge","Environment Fee VEEC","CENTS_PER_KWH",NULL,"FALSE",22,"2015-01-01","2018-12-31",1
+222,"flat rate","flat rate",0.38152,"Environmetal Charge","Environment Fee LREC","CENTS_PER_KWH",5,"FALSE",22,"2015-01-01","2018-12-31",1
+223,"flat rate","flat rate",0.4684,"Environmetal Charge","Environment Fee SREC","CENTS_PER_KWH",NULL,"FALSE",22,"2015-01-01","2018-12-31",1
+225,"flat rate","flat rate",246.57534,"Other","Metering Fee","CENTS_PER_DAY",NULL,"FALSE",22,"2015-01-01","2018-12-31",1
+226,"12:00:00 AM","11:59:59 PM",7.2,"Network Tariff Component","PFIT Recovery Charge","CENTS_PER_DAY",38,"FALSE",39,"2015-01-01","2015-12-31",1
+227,"flat rate","flat rate",246.57534,"Other","Metering Fee","CENTS_PER_DAY",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+228,"flat rate","flat rate",50,"Retail Charges","Retail Service Fee","CENTS_PER_DAY",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+229,"flat rate","flat rate",0.00312,"Market Charge","Market Fee Ancillary Services","CENTS_PER_KWH",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+230,"flat rate","flat rate",0.03247,"Market Charge","Market Fee Pool","CENTS_PER_KWH",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+231,"flat rate","flat rate",0.38152,"Environmetal Charge","Environment Fee LREC","CENTS_PER_KWH",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+232,"flat rate","flat rate",0.4684,"Environmetal Charge","Environment Fee SREC","CENTS_PER_KWH",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+302,"02:00:00 PM","07:59:59 PM",35.7417,"Capacity Charge","Peak","CENTS_PER_KVA_PER_DAY",NULL,"TRUE",107,"2017-07-01","2018-07-01",1
+303,"10:00:00 PM","11:59:59 PM",1.2625,"Network Energy Price","Off-Peak","CENTS_PER_KWH",23,"TRUE",107,"2017-07-01","2018-07-01",1
+304,"12:00:00 AM","06:59:59 AM",1.2625,"Network Energy Price","Off-Peak","CENTS_PER_KWH",23,"TRUE",107,"2017-07-01","2018-07-01",1
+305,"flat rate","flat rate",1748.4816,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",108,"2016-07-01","2017-07-01",1
+306,"flat rate","flat rate",1748.4816,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",108,"2016-07-01","2017-07-01",1
+307,"12:00:00 AM","11:59:59 PM",1.6084,"Network Energy Price","Off-Peak","CENTS_PER_KWH",105,"FALSE",108,"2016-07-01","2017-07-01",1
+309,"10:00:00 PM","11:59:59 PM",1.6084,"Network Energy Price","Off-Peak","CENTS_PER_KWH",23,"TRUE",108,"2016-07-01","2017-07-01",1
+310,"12:00:00 AM","06:59:59 PM",1.6084,"Network Energy Price","Off-Peak","CENTS_PER_KWH",23,"TRUE",108,"2016-07-01","2017-07-01",1
+312,"02:00:00 PM","07:59:59 PM",35.1909,"Capacity Charge","Peak","CENTS_PER_KVA_PER_DAY",74,"TRUE",108,"2016-07-01","2017-07-01",1
+313,"flat rate","flat rate",1722.5,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",60,"2015-07-01","2016-07-01",1
+314,"flat rate","flat rate",1722.5,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",60,"2015-07-01","2016-07-01",1
+315,"02:00:00 PM","07:59:59 PM",4.8645,"Network Energy Price","Peak","CENTS_PER_KWH",21,"TRUE",60,"2015-07-01","2016-07-01",1
+316,"07:00:00 AM","01:59:59 PM",2.3845,"Network Energy Price","Shoulder-1","CENTS_PER_KWH",22,"TRUE",60,"2015-07-01","2016-07-01",1
+317,"08:00:00 PM","09:59:59 PM",2.3845,"Network Energy Price","Shoulder-2","CENTS_PER_KWH",22,"TRUE",60,"2015-07-01","2016-07-01",1
+318,"12:00:00 AM","11:59:59 PM",1.5845,"Network Energy Price","Off-Peak","CENTS_PER_KWH",105,"FALSE",60,"2015-07-01","2016-07-01",1
+319,"10:00:00 PM","11:59:59 PM",1.5845,"Network Energy Price","Off-Peak","CENTS_PER_KWH",23,"TRUE",60,"2015-07-01","2016-07-01",1
+320,"12:00:00 AM","06:59:59 AM",1.5845,"Network Energy Price","Off-Peak","CENTS_PER_KWH",23,"TRUE",60,"2015-07-01","2016-07-01",1
+321,"flat rate","flat rate",34.668,"Capacity Charge","Peak","CENTS_PER_KVA_PER_DAY",74,"TRUE",60,"2015-06-30","2016-07-01",1
+324,"10:00:00 PM","11:59:59 PM",2.0312,"Energy Charge","Off-Peak","CENTS_PER_KWH",23,"TRUE",101,"2018-07-01","2019-07-01",1
+325,"12:00:00 AM","06:59:59 AM",2.0312,"Energy Charge","Off-Peak","CENTS_PER_KWH",23,"TRUE",101,"2018-07-01","2019-07-01",1
+326,"07:00:00 AM","12:59:59 PM",3.02,"Energy Charge","Shoulder-1","CENTS_PER_KWH",22,"TRUE",102,"2017-07-01","2018-07-01",1
+327,"08:00:00 PM","09:59:59 PM",3.02,"Energy Charge","Shoulder-2","CENTS_PER_KWH",22,"TRUE",102,"2017-07-01","2018-07-01",1
+328,"12:00:00 AM","06:59:59 AM",1.4,"Energy Charge","Off-Peak","CENTS_PER_KWH",23,"TRUE",102,"2017-07-01","2018-07-01",1
+329,"10:00:00 PM","11:59:59 PM",1.4,"Energy Charge","Off Peak","CENTS_PER_KWH",23,"TRUE",102,"2017-07-01","2018-07-01",1
+330,"12:00:00 AM","06:59:59 AM",1.41,"Energy Charge","Off-Peak","CENTS_PER_KWH",23,"TRUE",34,"2016-07-01","2017-07-01",1
+331,"10:00:00 PM","11:59:59 PM",1.41,"Energy Charge","Off-Peak","CENTS_PER_KWH",23,"TRUE",34,"2016-07-01","2017-07-01",1
+332,"12:00:00 AM","06:59:59 AM",1.2982,"Energy Charge","Off-Peak","CENTS_PER_KWH",23,"TRUE",103,"2015-07-01","2016-07-01",1
+333,"10:00:00 PM","11:59:59 PM",1.2982,"Energy Charge","Off-Peak","CENTS_PER_KWH",23,"TRUE",103,"2015-07-01","2016-07-01",1
+334,"flat rate","flat rate",1652.3676,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",104,"2019-07-01","2020-07-01",1
+335,"flat rate","flat rate",1652.3676,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",104,"2019-07-01","2020-07-01",1
+339,"12:00:00 AM","11:59:59 PM",1.1181,"Network Energy Price","Off-Peak","CENTS_PER_KWH",105,"FALSE",104,"2019-07-01","2020-07-01",1
+346,"flat rate","flat rate",1943.9619,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",106,"2018-07-01","2019-07-01",1
+347,"flat rate","flat rate",1943.9619,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",106,"2018-07-01","2019-07-01",1
+355,"12:00:00 AM","11:59:59 PM",1.1047,"Network Energy Price","Off-Peak","CENTS_PER_KWH",105,"FALSE",106,"2018-07-01","2019-07-01",1
+360,"flat rate","flat rate",1905.8449,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",107,"2017-07-01","2018-07-01",1
+361,"flat rate","flat rate",1905.8449,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",107,"2017-07-01","2018-07-01",1
+362,"02:00:00 PM","07:59:59 PM",4.9482,"Network Energy Price","Peak","CENTS_PER_KWH",21,"TRUE",107,"2017-07-01","2018-07-01",1
+363,"07:00:00 AM","01:59:59 PM",2.2725,"Network Energy Price","Shoulder-1","CENTS_PER_KWH",22,"TRUE",107,"2017-07-01","2018-07-01",1
+364,"08:00:00 PM","09:59:59 PM",2.2725,"Network Energy Price","Shoulder-2","CENTS_PER_KWH",22,"TRUE",107,"2017-07-01","2018-07-01",1
+365,"12:00:00 AM","11:59:59 PM",1.2625,"Network Energy Price","Off-Peak","CENTS_PER_KWH",105,"FALSE",107,"2017-07-01","2018-07-01",1
+373,"flat rate","flat rate",0.1966,"Environmental Schemes","NESC","CENTS_PER_KWH",85,"FALSE",109,"2019-01-01","2020-07-01",1.046
+374,"flat rate","flat rate",100,"Metering Charges","Principals Asset Dashboard Fee","CENTS_PER_MONTH",174,"FALSE",109,"2019-01-01","2020-07-01",1
+375,"flat rate","flat rate",33400,"Metering Charges","Meter Charge","CENTS_PER_ANNUM",11,"FALSE",109,"2019-01-01","2020-07-01",1
+376,"flat rate","flat rate",0.3633,"Market Operator Charges","AEMO Daily Market Fee","CENTS_PER_DAY",175,"FALSE",109,"2019-01-01","2020-07-01",1
+377,"07:00:00 AM","08:59:59 AM",9.484,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",110,"2018-07-01","2019-07-01",1
+378,"05:00:00 PM","07:59:59 PM",9.484,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",110,"2018-07-01","2019-07-01",1
+379,"10:00:00 PM","11:59:59 PM",6.567,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",110,"2018-07-01","2019-07-01",1
+380,"12:00:00 AM","06:59:59 AM",6.567,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",110,"2018-07-01","2019-07-01",1
+381,"12:00:00 AM","11:59:59 PM",6.567,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",106,"FALSE",110,"2018-07-01","2019-07-01",1
+382,"09:00:00 AM","04:59:59 PM",9.484,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",110,"2018-07-01","2019-07-01",1
+383,"08:00:00 PM","09:59:59 PM",9.484,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",110,"2018-07-01","2019-07-01",1
+384,"flat rate","flat rate",0.2204,"Environmental Schemes","NESC","CENTS_PER_KWH",85,"FALSE",110,"2018-07-01","2019-07-01",1
+385,"flat rate","flat rate",0.5163,"Environmental Schemes","Greenpower (6%)","CENTS_PER_KWH",66,"FALSE",110,"2018-07-01","2019-07-01",1
+386,"flat rate","flat rate",0.7946,"Environmental Schemes","SRECs","CENTS_PER_KWH",8,"FALSE",110,"2018-07-01","2019-07-01",1
+387,"flat rate","flat rate",1.6442,"Environmental Schemes","LRECs","CENTS_PER_KWH",5,"FALSE",110,"2018-07-01","2019-07-01",1
+388,"flat rate","flat rate",100,"Metering Charges","Pricipals Dashboard Fee","CENTS_PER_MONTH",NULL,"FALSE",110,"2018-07-01","2019-07-01",1
+389,"flat rate","flat rate",33400,"Metering Charges","Meter Charge","CENTS_PER_ANNUM",11,"FALSE",110,"2018-07-01","2019-07-01",1
+390,"flat rate","flat rate",0.0401,"Market Operator Charges","AEMO Market Fee","CENTS_PER_DAY",7,"FALSE",110,"2018-07-01","2019-07-01",1
+391,"flat rate","flat rate",0.0814,"Market Operator Charges","AEMO Ancilliary Fee","CENTS_PER_KWH",6,"FALSE",110,"2018-07-01","2019-07-01",1
+392,"07:00:00 AM","08:59:59 AM",7.348,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",111,"2017-07-01","2018-07-01",1
+393,"05:00:00 PM","07:59:59 PM",7.348,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",111,"2017-07-01","2018-07-01",1
+394,"10:00:00 PM","11:59:59 PM",5.129,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",111,"2017-07-01","2018-07-01",1
+395,"12:00:00 AM","06:59:59 AM",5.129,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",111,"2017-07-01","2018-07-01",1
+396,"12:00:00 AM","11:59:59 PM",5.129,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",106,"FALSE",111,"2017-07-01","2018-07-01",1
+397,"09:00:00 AM","04:59:59 PM",7.348,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",111,"2017-07-01","2018-07-01",1
+398,"08:00:00 PM","09:59:59 PM",7.348,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",111,"2017-07-01","2018-07-01",1
+399,"flat rate","flat rate",0.2172,"Environmental Schemes","NESC","CENTS_PER_KWH",85,"FALSE",111,"2017-07-01","2018-07-01",1
+400,"flat rate","flat rate",0.2665,"Environmental Schemes","Greenpower (6%)","CENTS_PER_KWH",66,"FALSE",111,"2017-07-01","2018-07-01",1
+401,"flat rate","flat rate",0.6542,"Environmental Schemes","SRECs","CENTS_PER_KWH",8,"FALSE",111,"2017-07-01","2018-07-01",1
+402,"flat rate","flat rate",0.78,"Environmental Schemes","LRECs","CENTS_PER_KWH",5,"FALSE",112,"2016-07-01","2017-07-01",1
+403,"flat rate","flat rate",100,"Metering Charges","Pricipals Dashboard Fee","CENTS_PER_MONTH",NULL,"FALSE",111,"2017-07-01","2018-07-01",1
+404,"flat rate","flat rate",46900,"Metering Charges","Meter Charge","CENTS_PER_ANNUM",11,"FALSE",111,"2017-07-01","2018-07-01",1
+405,"flat rate","flat rate",1.292,"Market Operator Charges","AEMO Ancilliary Fee","CENTS_PER_KWH",6,"FALSE",111,"2017-07-01","2018-07-01",1
+406,"flat rate","flat rate",0.0374,"Market Operator Charges","AEMO Market Fee","CENTS_PER_DAY",7,"FALSE",111,"2017-07-01","2018-07-01",1
+407,"07:00:00 AM","08:59:59 AM",5.5079,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",112,"2016-07-01","2017-07-01",1
+408,"05:00:00 PM","07:59:59 PM",5.5079,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",112,"2016-07-01","2017-07-01",1
+409,"10:00:00 PM","11:59:59 PM",3.8445,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",112,"2016-07-01","2017-07-01",1
+410,"12:00:00 AM","06:59:59 AM",3.8445,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",112,"2016-07-01","2017-07-01",1
+411,"12:00:00 AM","11:59:59 PM",3.8445,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",106,"FALSE",112,"2016-07-01","2017-07-01",1
+412,"09:00:00 AM","04:59:59 PM",5.5079,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",112,"2016-07-01","2017-07-01",1
+413,"08:00:00 PM","09:59:59 PM",5.5079,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",112,"2016-07-01","2017-07-01",1
+414,"flat rate","flat rate",0.199,"Environmental Schemes","NESC","CENTS_PER_KWH",85,"FALSE",112,"2016-07-01","2017-07-01",1
+415,"flat rate","flat rate",0.2495,"Environmental Schemes","Greenpower (6%)","CENTS_PER_KWH",66,"FALSE",112,"2016-07-01","2017-07-01",1
+416,"flat rate","flat rate",0.2822,"Environmental Schemes","SRECs","CENTS_PER_KWH",8,"FALSE",112,"2016-07-01","2017-07-01",1
+417,"flat rate","flat rate",1.2748,"Environmental Schemes","LRECs","CENTS_PER_KWH",5,"FALSE",111,"2017-07-01","2018-07-01",1
+418,"flat rate","flat rate",100,"Metering Charges","Pricipals Dashboard Fee","CENTS_PER_MONTH",NULL,"FALSE",112,"2016-07-01","2017-07-01",1
+419,"flat rate","flat rate",46900,"Metering Charges","Meter Charge","CENTS_PER_ANNUM",11,"FALSE",112,"2016-07-01","2017-07-01",1
+420,"flat rate","flat rate",1.0673,"Market Operator Charges","AEMO Ancilliary Fee","CENTS_PER_KWH",6,"FALSE",112,"2016-07-01","2017-07-01",1
+421,"flat rate","flat rate",1.0673,"Market Operator Charges","AEMO Market Fee","CENTS_PER_DAY",7,"FALSE",112,"2016-07-01","2017-07-01",1
+429,"07:00:00 AM","08:59:59 AM",28.9432,"Retail ToU Charge","Peak Usage","CENTS_PER_KWH",4,"TRUE",113,"2018-07-01","2022-07-01",1
+430,"08:00:00 PM","09:59:59 PM",27.3922,"Retail ToU Charge","Shoulder Usage","CENTS_PER_KWH",62,"TRUE",113,"2018-07-01","2022-07-01",1
+431,"09:00:00 AM","04:59:59 PM",27.3922,"Retail ToU Charge","Shoulder Usage","CENTS_PER_KWH",62,"TRUE",113,"2018-07-01","2022-07-01",1
+432,"12:00:00 AM","06:59:59 AM",16.918,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",3,"TRUE",113,"2018-07-01","2022-07-01",1
+433,"12:00:00 AM","11:59:59 PM",16.918,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",106,"FALSE",113,"2018-07-01","2022-07-01",1
+434,"10:00:00 PM","11:59:59 PM",16.918,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",3,"TRUE",113,"2018-07-01","2022-07-01",1
+444,"flat rate","flat rate",0.4686,"GreenPower Charge","6% GreenPower","CENTS_PER_KWH",66,"TRUE",113,"2018-07-01","2022-07-01",1
+445,"05:00:00 PM","07:59:59 PM",29.391,"Retail ToU Charge","Peak Usage","CENTS_PER_KWH",4,"TRUE",114,"2018-07-01","2019-07-01",1
+446,"07:00:00 AM","08:59:59 AM",29.391,"Retail ToU Charge","Peak Usage","CENTS_PER_KWH",4,"TRUE",114,"2018-07-01","2019-07-01",1
+447,"07:59:59 PM","09:59:59 PM",28.07,"Retail ToU Charge","Shoulder Usage","CENTS_PER_KWH",62,"TRUE",114,"2018-07-01","2019-07-01",1
+448,"09:00:00 AM","04:59:59 PM",28.07,"Retail ToU Charge","Shoulder Usage","CENTS_PER_KWH",62,"TRUE",114,"2018-07-01","2019-07-01",1
+449,"12:00:00 AM","06:59:59 AM",18.248,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",3,"TRUE",114,"2018-07-01","2019-07-01",1
+450,"12:00:00 AM","11:59:59 PM",18.248,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",108,"FALSE",114,"2018-07-01","2019-07-01",1
+451,"10:00:00 PM","11:59:59 PM",18.248,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",3,"TRUE",114,"2018-07-01","2019-07-01",1
+452,"flat rate","flat rate",645.77,"Retail Supply Charge","Supply Charge","CENTS_PER_DAY",NULL,"FALSE",114,"2018-07-01","2019-07-01",1
+453,"flat rate","flat rate",0.426,"GreenPower Charge","6% GreenPower","CENTS_PER_KWH",66,"FALSE",114,"2018-07-01","2019-07-01",1
+454,"05:00:00 PM","07:59:59 PM",28.374,"Retail ToU Charge","Peak Usage","CENTS_PER_KWH",4,"TRUE",114,"2018-07-01","2019-07-01",1
+455,"07:00:00 AM","08:59:59 AM",28.374,"Retail ToU Charge","Peak Usage","CENTS_PER_KWH",4,"TRUE",114,"2018-07-01","2019-07-01",1
+456,"08:00:00 PM","09:59:59 PM",27.0424,"Retail ToU Charge","Shoulder Usage","CENTS_PER_KWH",62,"TRUE",114,"2018-07-01","2019-07-01",1
+457,"09:00:00 AM","04:59:59 PM",27.0424,"Retail ToU Charge","Shoulder Usage","CENTS_PER_KWH",62,"TRUE",114,"2018-07-01","2019-07-01",1
+458,"12:00:00 AM","06:59:59 AM",16.5682,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",3,"TRUE",114,"2018-07-01","2019-07-01",1
+459,"12:00:00 AM","11:59:59 PM",16.5682,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",106,"FALSE",114,"2018-07-01","2019-07-01",1
+460,"10:00:00 PM","11:59:59 PM",16.5682,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",3,"TRUE",114,"2018-07-01","2019-07-01",1
+461,"flat rate","flat rate",93.49,"Retail Supply Charge","Supply Charge","CENTS_PER_DAY",NULL,"FALSE",114,"2018-07-01","2019-07-01",1
+462,"flat rate","flat rate",0.426,"GreenPower Charge","6% GreenPower","CENTS_PER_KWH",66,"FALSE",114,"2018-07-01","2019-07-01",1
+463,"05:00:00 PM","07:59:59 PM",28.055,"Retail ToU Charge","Peak Usage","CENTS_PER_KWH",4,"TRUE",114,"2018-07-01","2019-07-01",1
+464,"07:00:00 AM","08:59:59 AM",28.055,"Retail ToU Charge","Peak Usage","CENTS_PER_KWH",4,"TRUE",114,"2018-07-01","2019-07-01",1
+465,"08:00:00 PM","09:59:59 PM",27.0424,"Retail ToU Charge","Shoulder Usage","CENTS_PER_KWH",62,"TRUE",114,"2018-07-01","2019-07-01",1
+466,"09:00:00 AM","04:59:59 PM",27.0424,"Retail ToU Charge","Shoulder Usage","CENTS_PER_KWH",62,"TRUE",114,"2018-07-01","2019-07-01",1
+467,"12:00:00 AM","06:59:59 AM",16.5682,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",3,"TRUE",114,"2018-07-01","2019-07-01",1
+468,"12:00:00 AM","11:59:59 PM",16.5682,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",106,"FALSE",114,"2018-07-01","2019-07-01",1
+469,"10:00:00 PM","11:59:59 PM",16.5682,"Retail ToU Charge","Off-Peak Usage","CENTS_PER_KWH",3,"TRUE",114,"2018-07-01","2019-07-01",1
+470,"flat rate","flat rate",93.49,"Retail Supply Charge","Supply Charge","CENTS_PER_DAY",NULL,"FALSE",114,"2018-07-01","2019-07-01",1
+471,"flat rate","flat rate",0.528,"GreenPower Charge","6% GreenPower","CENTS_PER_KWH",66,"FALSE",114,"2018-07-01","2019-07-01",1
+473,"07:00:00 AM","07:00:00 PM",2.152,"Network Tariff Component","Summer Peak Energy (c/kWh)","CENTS_PER_KWH",21,"TRUE",13,"2013-11-01","2014-03-31",1
+474,"07:00:00 AM","07:00:00 PM",1.781,"Network Tariff Component","Non Summer Peak Energy (c/kWh)","CENTS_PER_KWH",21,"TRUE",23,"2014-04-01","2014-10-31",1
+475,"12:00:00 AM","11:59:59 PM",0.999,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",105,"FALSE",14,"2014-01-01","2014-12-31",1
+476,"12:00:00 AM","06:59:59 AM",0.999,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",23,"TRUE",69,"2014-01-01","2014-12-31",1
+477,"07:00:00 PM","11:59:59 PM",0.999,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",23,"TRUE",14,"2014-01-01","2014-12-31",1
+478,"07:00:00 AM","05:59:59 PM",15.946,"Network Tariff Component","Rolling Peak Demand c/kVA/day","CENTS_PER_KVA_PER_DAY",29,"TRUE",14,"2014-01-01","2014-12-31",1
+479,"03:00:00 PM","04:59:59 PM",23.297,"Network Tariff Component","Summer Demand Incentive Charge c/kW/day or c/kVA/day","CENTS_PER_KVA_PER_DAY",NULL,"TRUE",13,"2013-11-01","2014-03-31",1
+480,"12:00:00 AM","11:59:59 PM",7.2,"Network Tariff Component","PFIT Recovery Charge","CENTS_PER_DAY",NULL,"TRUE",69,"2014-01-01","2014-12-31",1
+481,"12:00:00 AM","11:59:59 PM",7.2,"Network Tariff Component","PFIT Recovery Charge","CENTS_PER_DAY",NULL,"FALSE",14,"2014-01-01","2014-12-31",1
+482,"07:00:00 AM","06:59:59 PM",2.387,"Network Tariff Component","Summer Peak Energy (c/kWh)","CENTS_PER_KWH",NULL,"TRUE",81,"2015-11-01","2016-03-31",1
+483,"07:00:00 AM","06:59:59 PM",1.971,"Network Tariff Component","Non Summer Peak Energy (c/kWh)","CENTS_PER_KWH",NULL,"TRUE",9,"2016-04-01","2016-10-31",1
+484,"07:00:00 PM","11:59:59 PM",1.025,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",NULL,"FALSE",67,"2016-01-01","2016-12-31",1
+485,"07:00:00 PM","11:59:59 PM",1.025,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",NULL,"TRUE",67,"2016-01-01","2016-12-31",1
+486,"12:00:00 AM","06:59:59 AM",1.025,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",NULL,"TRUE",67,"2016-01-01","2016-12-31",1
+487,"07:00:00 AM","05:59:59 PM",17.09,"Network Tariff Component","Rolling Peak Demand c/kVA/day","CENTS_PER_KVA_PER_DAY",NULL,"TRUE",67,"2016-01-01","2016-12-31",1
+488,"03:00:00 PM","04:59:59 PM",24.9,"Network Tariff Component","Summer Demand Incentive Charge c/kW/day or c/kVA/day","CENTS_PER_KVA_PER_DAY",NULL,"TRUE",81,"2015-11-01","2016-03-31",1
+489,"12:00:00 AM","11:59:59 PM",7.2,"Network Tariff Component","PFIT Recovery Charge","CENTS_PER_DAY",NULL,"FALSE",67,"2016-01-01","2016-12-31",1
+490,"12:00:00 AM","11:59:59 PM",7.2,"Network Tariff Component","PFIT Recovery Charge","CENTS_PER_DAY",NULL,"TRUE",67,"2016-01-01","2016-12-31",1
+491,"07:00:00 AM","06:59:59 PM",2.36,"Network Tariff Component","Summer Peak Energy (c/kWh)","CENTS_PER_KWH",NULL,"TRUE",87,"2016-11-01","2017-03-31",1
+492,"07:00:00 AM","06:59:59 PM",1.971,"Network Tariff Component","Non Summer Peak Energy (c/kWh)","CENTS_PER_KWH",NULL,"TRUE",12,"2017-04-01","2017-10-31",1
+493,"07:00:00 PM","11:59:59 PM",1.095,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",NULL,"TRUE",4,"2017-01-01","2017-12-31",1
+494,"12:00:00 AM","06:59:59 AM",0.999,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",NULL,"TRUE",14,"2014-01-01","2014-12-31",1
+495,"12:00:00 AM","06:59:59 AM",1.095,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",NULL,"TRUE",4,"2017-01-01","2017-12-31",1
+496,"12:00:00 AM","11:59:59 PM",1.095,"Network Tariff Component","Off Peak Energy","CENTS_PER_KWH",NULL,"FALSE",4,"2017-01-01","2017-12-31",1
+497,"07:00:00 AM","05:59:59 PM",17.511,"Network Tariff Component","Rolling Peak Demand c/kVA/day","CENTS_PER_KVA_PER_DAY",NULL,"TRUE",4,"2017-01-01","2017-12-31",1
+498,"03:00:00 PM","04:59:59 PM",25.581,"Network Tariff Component","Summer Demand Incentive Charge c/kW/day or c/kVA/day","CENTS_PER_KVA_PER_DAY",NULL,"TRUE",87,"2016-11-01","2017-03-31",1
+499,"12:00:00 AM","11:59:59 PM",7.2,"Network Tariff Component","PFIT Recovery Charge","CENTS_PER_DAY",NULL,"FALSE",4,"2017-01-01","2017-12-31",1
+500,"12:00:00 AM","11:59:59 PM",7.2,"Network Tariff Component","PFIT Recovery Charge","CENTS_PER_DAY",NULL,"TRUE",4,"2017-01-01","2017-12-31",1
+501,"flat rate","flat rate",0.2947,"Environmetal Charge","Environment Fee VEEC","CENTS_PER_KWH",NULL,"TRUE",22,"2015-01-01","2018-12-31",1
+502,"07:00:00 AM","08:59:59 AM",9.8524,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",54,"2020-07-01","2021-07-01",1
+503,"flat rate","flat rate",0.2421,"Environmental Schemes","NESC","CENTS_PER_KWH",85,"FALSE",54,"2020-07-01","2021-07-01",1
+504,"flat rate","flat rate",0.2421,"Environmental Schemes","NESC","CENTS_PER_KWH",85,"TRUE",54,"2020-07-01","2021-07-01",1
+508,"4:00:00 PM","8:00:00 PM",23,"Testing","Testing","CENTS_PER_KWH",4,"TRUE",111,"2017-07-01","2018-07-01",1
+510,"flat rate","flat rate",0.9249,"Environmental Schemes","SRECs","CENTS_PER_KWH",8,"FALSE",109,"2019-01-01","2020-07-01",1.046
+512,"flat rate","flat rate",0.5028,"Environmental Schemes","LRECs","CENTS_PER_KWH",5,"FALSE",109,"2019-01-01","2020-07-01",1.046
+513,"flat rate","flat rate",0.2772,"Environmental Schemes","Greenpower (6%)","CENTS_PER_KWH",66,"TRUE",109,"2019-01-01","2020-07-01",1.046
+514,"flat rate","flat rate",0.5028,"Environmental Schemes","LRECs","CENTS_PER_KWH",5,"TRUE",109,"2019-01-01","2020-07-01",1.046
+515,"flat rate","flat rate",0.9249,"Environmental Schemes","SRECs","CENTS_PER_KWH",8,"TRUE",109,"2019-01-01","2020-07-01",1.046
+516,"flat rate","flat rate",0.1966,"Environmental Schemes","NESC","CENTS_PER_KWH",85,"TRUE",109,"2019-01-01","2020-07-01",1.046
+517,"10:00:00 PM","11:59:59 PM",6.7914,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",109,"2019-01-01","2020-07-01",1.01755
+518,"12:00:00 AM","06:59:59 AM",6.7914,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",109,"2019-01-01","2020-07-01",1.01755
+519,"12:00:00 AM","11:59:59 PM",6.7914,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"FALSE",109,"2019-01-01","2020-07-01",1.01755
+521,"flat rate","flat rate",100,"Metering Charges","Principals Asset Dashboard Fee","CENTS_PER_MONTH",174,"TRUE",109,"2019-01-01","2020-07-01",1
+523,"flat rate","flat rate",0.0368,"Market Operator Charges","AEMO Market Fee","CENTS_PER_KWH",7,"TRUE",109,"2019-01-01","2020-07-01",1.046
+524,"flat rate","flat rate",0.1274,"Market Operator Charges","AEMO Ancilliary Fee","CENTS_PER_KWH",6,"TRUE",109,"2019-01-01","2020-07-01",1.046
+525,"02:00:00 PM","07:59:59 PM",9.8369,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",129,"2019-01-01","2020-07-01",1.01755
+526,"07:00:00 AM","01:59:59 PM",9.8369,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",129,"2019-01-01","2020-07-01",1.01755
+527,"08:00:00 PM","09:59:59 PM",9.8369,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",129,"2019-01-01","2020-07-01",1.01755
+529,"12:00:00 AM","11:59:59 PM",1.1181,"Network Charges","EA305 - Off Peak","CENTS_PER_KWH",23,"FALSE",123,"2019-01-01","2020-07-01",1
+530,"10:00:00 PM","11:59:59 PM",1.1181,"Network Charges","EA305 - Off Peak","CENTS_PER_KWH",23,"TRUE",123,"2019-01-01","2020-07-01",1
+532,"12:00:00 AM","06:59:59 AM",1.1181,"Network Charges","EA305 - Off Peak","CENTS_PER_KWH",23,"TRUE",123,"2019-01-01","2020-07-01",1
+533,"flat rate","flat rate",1652.3676,"Network Charges","EA305 - Supply Charge","CENTS_PER_DAY",14,"TRUE",123,"2019-01-01","2020-07-01",1
+534,"flat rate","flat rate",1652.3676,"Network Charges","EA305 - Supply Charge","CENTS_PER_DAY",14,"FALSE",123,"2019-01-01","2020-07-01",1
+535,"flat rate","flat rate",32.811,"Network Charges","EA305 - Capacity","CENTS_PER_KVA_PER_DAY",74,"FALSE",123,"2019-01-01","2020-07-01",1
+536,"04:00:00 PM","07:59:59 PM",3.9541,"STOU High-season Peak","Peak","CENTS_PER_KWH",21,"TRUE",115,"2019-11-01","2020-03-01",1
+537,"04:00:00 PM","07:59:59 PM",1003.45,"Network Energy Price","High-season","CENTS_PER_KVA_MONTH",72,"TRUE",115,"2019-11-01","2020-03-01",1
+538,"04:00:00 PM","07:59:59 PM",3.3741,"Network Energy Price","STOU Low-season Peak","CENTS_PER_KWH",21,"TRUE",116,"2019-07-01","2019-11-01",1
+539,"04:00:00 PM","07:59:59 PM",857.05,"Demand Charge","Low-season","CENTS_PER_KVA_MONTH",71,"TRUE",116,"2019-07-01","2019-11-01",1
+542,"01:00:00 PM","07:59:59 PM",938.15,"Demand Charge","Low-season-1","CENTS_PER_KVA_MONTH",71,"TRUE",119,"2018-09-01","2018-10-01",1
+543,"01:00:00 PM","07:59:59 PM",938.15,"Demand Charge","Low-season-2","CENTS_PER_KVA_MONTH",71,"TRUE",120,"2019-04-01","2019-05-01",1
+544,"02:00:00 PM","07:59:59 PM",6.195,"Network Energy Price","Peak summer","CENTS_PER_KWH",4,"TRUE",121,"2019-11-01","2020-04-01",1
+545,"flat rate","flat rate",32.811,"Network Capacity Price","Peak High Season-1","CENTS_PER_KVA_PER_DAY",25,"TRUE",121,"2019-11-01","2020-04-01",1
+546,"05:00:00 PM","08:59:59 PM",6.195,"Network Energy Price","Peak winter","CENTS_PER_KWH",4,"TRUE",122,"2019-07-01","2019-09-01",1
+547,"02:00:00 PM","07:59:59 PM",32.811,"Network Capacity Price","Peak High Season-2","CENTS_PER_KVA_PER_DAY",21,"TRUE",122,"2019-07-01","2019-09-01",1
+548,"02:00:00 PM","07:59:59 PM",32.811,"Network Capacity Price","Peak Low Season-1","CENTS_PER_KVA_PER_DAY",31,"TRUE",124,"2022-04-01","2020-06-01",1
+549,"02:00:00 PM","07:59:59 PM",32.811,"Network Capacity Price","Peak Low Season-2","CENTS_PER_KVA_PER_DAY",31,"TRUE",125,"2019-10-01","2019-12-01",1
+550,"02:00:00 PM","07:59:59 PM",5.2847,"Network Energy Price","Peak summer","CENTS_PER_KWH",21,"TRUE",128,"2018-11-01","2019-04-01",1
+552,"07:00:00 AM","02:00:00 PM",2.4197,"Network Energy Price","Shoulder-1","CENTS_PER_KWH",22,"TRUE",128,"2018-11-01","2019-04-01",1
+553,"07:00:00 AM","02:00:00 PM",2.4197,"Network Energy Price","Shoulder-3","CENTS_PER_KWH",22,"TRUE",128,"2018-11-01","2019-04-01",1
+554,"02:00:00 PM","07:59:59 PM",36.4566,"Network Capacity Price","Peak-1","CENTS_PER_KVA_PER_DAY",21,"TRUE",128,"2018-11-01","2019-04-01",1
+556,"07:00:00 AM","01:59:59 PM",2.2747,"Network Energy Price","Shoulder","CENTS_PER_KWH",22,"TRUE",121,"2019-11-01","2020-04-01",1
+557,"8:00:00 PM","09:59:59 PM",2.2747,"Network Energy Price","Shoulder","CENTS_PER_KWH",22,"TRUE",121,"2019-11-01","2020-04-01",1
+560,"02:00:00 PM","07:59:59 PM",5.2847,"Network Energy Price","Peak winter","CENTS_PER_KWH",21,"TRUE",127,"2018-07-01","2018-09-01",1
+561,"07:00:00 AM","01:59:59 PM",2.4197,"Network Energy Price","Shoulder-2","CENTS_PER_KWH",22,"TRUE",127,"2018-07-01","2018-09-01",1
+562,"08:00:00 PM","09:59:59 PM",2.4197,"Network Energy Price","Shoulder-4","CENTS_PER_KWH",22,"TRUE",127,"2018-07-01","2018-09-01",1
+563,"02:00:00 PM","07:59:59 PM",36.4566,"Network Capacity Price","Peak-2","CENTS_PER_KVA_PER_DAY",74,"TRUE",127,"2018-07-01","2018-09-01",1
+564,"10:00:00 PM","11:59:59 PM",1.1047,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",127,"2018-07-01","2018-09-01",1
+565,"12:00:00 AM","06:59:59 AM",1.1047,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",127,"2018-07-01","2018-09-01",1
+566,"flat rate","flat rate",640.585,"Retail Supply Charge","Supply Charge","CENTS_PER_DAY",41,"TRUE",113,"2018-07-01","2022-07-01",1
+567,"08:00:00 PM","11:59:59 PM",1.9851,"Energy Charge","STOU Off Peak","CENTS_PER_KWH",23,"TRUE",115,"2019-11-01","2020-03-01",1
+568,"12:00:00 AM","03:59:59 PM",1.9851,"Energy Charge","STOU Off Peak","CENTS_PER_KWH",23,"TRUE",115,"2019-11-01","2020-03-01",1
+569,"08:00:00 PM","11:59:59 PM",1.9851,"Energy Charge","STOU Off Peak","CENTS_PER_KWH",NULL,"TRUE",116,"2019-07-01","2019-11-01",1
+570,"12:00:00 AM","03:59:59 PM",1.9851,"Energy Charge","STOU Off Peak","CENTS_PER_KWH",23,"TRUE",116,"2019-07-01","2019-11-01",1
+572,"07:00:00 AM","08:59:59 AM",9.8369,"Retail Charges","Peak","CENTS_PER_KWH",4,"TRUE",130,"2019-07-01","2020-07-01",1.06078
+573,"05:00:00 PM","07:59:59 PM",9.8369,"Retail Charges","Peak","CENTS_PER_KWH",4,"TRUE",130,"2019-07-01","2020-07-01",1.06078
+574,"09:00:00 AM","04:59:59 PM",9.8369,"Retail Charges","Shoulder","CENTS_PER_KWH",62,"TRUE",130,"2019-07-01","2020-07-01",1.06078
+575,"08:00:00 PM","09:59:59 PM",9.8369,"Retail Charges","Shoulder","CENTS_PER_KWH",62,"TRUE",130,"2019-07-01","2020-07-01",1.06078
+576,"12:00:00 AM","06:59:59 AM",6.7914,"Retail Charges","Off Peak","CENTS_PER_KWH",3,"TRUE",130,"2019-07-01","2020-07-01",1.06078
+577,"10:00:00 PM","11:59:59 PM",6.7914,"Retail Charges","Off Peak","CENTS_PER_KWH",3,"TRUE",130,"2019-07-01","2020-07-01",1.06078
+578,"12:00:00 AM","11:59:59 PM",6.7914,"Retail Charges","Off Peak","CENTS_PER_KWH",3,"FALSE",130,"2019-07-01","2020-07-01",1.06078
+579,"flat rate","flat rate",0.1966,"Environmental Schemes","NESC","CENTS_PER_KWH",115,"FALSE",130,"2019-07-01","2020-07-01",1.0628
+580,"flat rate","flat rate",0.1966,"Environmental Schemes","NESC","CENTS_PER_KWH",164,"TRUE",130,"2019-07-01","2020-07-01",1.0628
+581,"flat rate","flat rate",0.2772,"Environmental Schemes","Greenpower (6%)","CENTS_PER_KWH",66,"FALSE",130,"2019-07-01","2020-07-01",1.0628
+582,"flat rate","flat rate",0.2772,"Environmental Schemes","Greenpower (6%)","CENTS_PER_KWH",66,"TRUE",130,"2019-07-01","2020-07-01",1.0628
+583,"flat rate","flat rate",0.9249,"Environmental Schemes","SRECs","CENTS_PER_KWH",8,"FALSE",130,"2019-07-01","2020-07-01",1.0628
+584,"flat rate","flat rate",0.9249,"Environmental Schemes","SRECs","CENTS_PER_KWH",8,"TRUE",130,"2019-07-01","2020-07-01",1.0628
+585,"flat rate","flat rate",0.5028,"Environmental Schemes","LRECs","CENTS_PER_KWH",5,"FALSE",130,"2019-07-01","2020-07-01",1.0628
+586,"flat rate","flat rate",0.5028,"Environmental Schemes","LRECs","CENTS_PER_KWH",5,"TRUE",130,"2019-07-01","2020-07-01",1.0628
+587,"flat rate","flat rate",100,"Metering Charges","Pricipals Dashboard Fee","CENTS_PER_MONTH",174,"FALSE",130,"2019-07-01","2020-07-01",1
+588,"flat rate","flat rate",100,"Metering Charges","Pricipals Dashboard Fee","CENTS_PER_MONTH",174,"TRUE",130,"2019-07-01","2020-07-01",1
+589,"flat rate","flat rate",33400,"Metering Charges","Meter Charge","CENTS_PER_ANNUM",11,"FALSE",130,"2019-07-01","2020-07-01",1
+590,"flat rate","flat rate",33400,"Metering Charges","Meter Charge","CENTS_PER_ANNUM",11,"TRUE",130,"2019-07-01","2020-07-01",1
+591,"flat rate","flat rate",0.1274,"Market Operator Charges","AEMO Ancilliary Fee","CENTS_PER_KWH",6,"FALSE",130,"2019-07-01","2020-07-01",1.0628
+592,"flat rate","flat rate",0.1274,"Market Operator Charges","AEMO Ancilliary Fee","CENTS_PER_KWH",6,"TRUE",130,"2019-07-01","2020-07-01",1.0628
+593,"flat rate","flat rate",0.03633,"Market Operator Charges","AEMO Market Fee","CENTS_PER_KWH",7,"FALSE",130,"2019-07-01","2020-07-01",1.0628
+594,"flat rate","flat rate",0.03633,"Market Operator Charges","AEMO Market Fee","CENTS_PER_KWH",7,"TRUE",130,"2019-07-01","2020-07-01",1.0628
+595,"flat rate","flat rate",0.3633,"Market Operator Charges","AEMO Market Fee","CENTS_PER_DAY",7,"FALSE",130,"2019-07-01","2020-07-01",1
+596,"flat rate","flat rate",0.3633,"Market Operator Charges","AEMO Market Fee","CENTS_PER_DAY",7,"TRUE",130,"2019-07-01","2020-07-01",1
+597,"flat rate","flat rate",32.811,"Network Charges","EA305 - Capacity","CENTS_PER_KVA_PER_DAY",74,"TRUE",123,"2019-01-01","2020-07-01",1
+598,"04:00:00 PM","07:59:59 PM",3.3741,"Network Energy Price","Winter Peak","CENTS_PER_KWH",21,"TRUE",98,"2019-07-01","2019-10-01",1
+601,"12:00:00 AM","11:59:59 PM",1.9851,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"FALSE",98,"2019-07-01","2020-07-01",1
+603,"12:00:00 AM","03:59:59 PM",1.9851,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",98,"2019-07-01","2020-07-01",1
+604,"08:00:00 PM","11:59:59 PM",1.9851,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",98,"2019-07-01","2020-07-01",1
+608,"02:00:00 PM","07:59:59 PM",6.195,"Network Energy Price","Summer Peak","CENTS_PER_KWH",21,"TRUE",104,"2019-11-01","2020-04-01",1
+609,"02:00:00 PM","07:59:59 PM",6.195,"Network Energy Price","Winter Peak","CENTS_PER_KWH",21,"TRUE",104,"2019-07-01","2019-09-01",1
+610,"07:00:00 AM","01:59:59 PM",2.2747,"Network Energy Price","Shoulder 1 Morning ","CENTS_PER_KWH",22,"TRUE",104,"2019-09-01","2019-11-01",1
+611,"08:00:00 PM","09:59:59 PM",2.2747,"Network Energy Price","Shoulder 1 evening","CENTS_PER_KWH",22,"TRUE",104,"2019-09-01","2019-11-01",1
+612,"07:00:00 AM","01:59:59 PM",2.2747,"Network Energy Price","Shoulder 2 Morning","CENTS_PER_KWH",22,"TRUE",104,"2020-04-01","2020-06-01",1
+613,"08:00:00 PM","09:59:59 PM",2.2747,"Network Energy Price","Shoulder 2 evening","CENTS_PER_KWH",22,"TRUE",104,"2020-04-01","2020-06-01",1
+616,"02:00:00 PM","07:59:59 PM",6.195,"Network Energy Price","Winter Peak","CENTS_PER_KWH",21,"TRUE",104,"2020-06-01","2020-07-01",1
+617,"10:00:00 PM","11:59:59 PM",1.1181,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",104,"2019-07-01","2020-07-01",1
+618,"12:00:00 AM","07:59:59 AM",1.1181,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",104,"2019-07-01","2020-07-01",1
+619,"flat rate","flat rate",32.811,"Network Capacity Price","Capacity","CENTS_PER_KVA_PER_DAY",74,"TRUE",104,"2019-07-01","2020-07-01",1
+620,"flat rate","flat rate",32.811,"Network Capacity Price","Capacity","CENTS_PER_KVA_PER_DAY",74,"FALSE",104,"2019-07-01","2020-07-01",1
+622,"flat rate","flat rate",0.2204,"Retail Charges","NESC","CENTS_PER_KWH",177,"FALSE",131,"2018-07-01","2019-07-01",1.0477
+623,"flat rate","flat rate",0.2204,"Retail Charges","NESC","CENTS_PER_KWH",177,"TRUE",131,"2018-07-01","2019-07-01",1.0477
+624,"flat rate","flat rate",0.7946,"Retail Charges","SRECs","CENTS_PER_KWH",8,"TRUE",131,"2018-07-01","2019-07-01",1.0477
+625,"flat rate","flat rate",0.7946,"Retail Charges","SRECs","CENTS_PER_KWH",8,"FALSE",131,"2018-07-01","2019-07-01",1.0477
+626,"flat rate","flat rate",1.6442,"Retail Charges","LRECs","CENTS_PER_KWH",5,"TRUE",131,"2018-07-01","2019-07-01",1.0477
+627,"flat rate","flat rate",1.6442,"Retail Charges","LRECs","CENTS_PER_KWH",5,"FALSE",131,"2018-07-01","2019-07-01",1.0477
+628,"flat rate","flat rate",0.5163,"Retail Charges","Greenpower (6%)","CENTS_PER_KWH",66,"TRUE",131,"2018-07-01","2019-07-01",1.0477
+629,"flat rate","flat rate",0.5163,"Retail Charges","Greenpower (6%)","CENTS_PER_KWH",66,"FALSE",131,"2018-07-01","2019-07-01",1.0477
+630,"07:00:00 AM","08:59:59 AM",9.484,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",131,"2018-07-01","2019-07-01",1.01197
+631,"05:00:00 PM","07:59:59 PM",9.484,"Retail Charges","NSW Peak","CENTS_PER_KWH",4,"TRUE",131,"2018-07-01","2019-07-01",1.01197
+632,"09:00:00 AM","04:59:59 PM",9.484,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",131,"2018-07-01","2019-07-01",1.01197
+633,"08:00:00 PM","09:59:59 PM",9.484,"Retail Charges","NSW Shoulder","CENTS_PER_KWH",62,"TRUE",131,"2018-07-01","2019-07-01",1.01197
+634,"12:00:00 AM","06:59:59 AM",6.567,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",131,"2018-07-01","2019-07-01",1.01197
+635,"10:00:00 PM","11:59:59 PM",6.567,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"TRUE",131,"2018-07-01","2019-07-01",1.01197
+636,"12:00:00 AM","11:59:59 PM",6.567,"Retail Charges","NSW Off-Peak","CENTS_PER_KWH",3,"FALSE",131,"2018-07-01","2019-07-01",1.01197
+637,"flat rate","flat rate",0.0814,"Retail Charges","AEMO Ancillary Fee","CENTS_PER_KWH",6,"TRUE",131,"2018-07-01","2019-07-01",1.0477
+638,"flat rate","flat rate",0.0814,"Retail Charges","AEMO Ancillary Fee","CENTS_PER_KWH",6,"FALSE",131,"2018-07-01","2019-07-01",1.0477
+639,"flat rate","flat rate",0.0401,"Retail Charges","AEMO Market Fee","CENTS_PER_KWH",7,"TRUE",131,"2018-07-01","2019-07-01",1.0477
+640,"flat rate","flat rate",0.0401,"Market Operator Charges","AEMO Market Fee","CENTS_PER_KWH",7,"FALSE",131,"2018-07-01","2019-07-01",1.0477
+641,"flat rate","flat rate",100,"Metering Charges","Principals Asset Dashboard Fee","CENTS_PER_MONTH",174,"TRUE",131,"2018-07-01","2019-07-01",1
+642,"flat rate","flat rate",100,"Metering Charges","Principals Asset Dashboard Fee","CENTS_PER_MONTH",174,"FALSE",131,"2018-07-01","2019-07-01",1
+643,"flat rate","flat rate",34400,"Metering Charges","Meter Charge","CENTS_PER_ANNUM",11,"TRUE",131,"2018-07-01","2019-07-01",1
+644,"flat rate","flat rate",34400,"Metering Charges","Meter Charge","CENTS_PER_ANNUM",11,"FALSE",131,"2018-07-01","2019-07-01",1
+647,"flat rate","flat rate",36.4566,"Network Charges","Capacity","CENTS_PER_KVA_PER_DAY",74,"TRUE",132,"2018-07-01","2019-07-01",1
+648,"02:00:00 PM","07:59:59 PM",6.195,"Network Energy Price","Summer Peak","CENTS_PER_KWH",21,"TRUE",132,"2018-11-01","2019-04-01",1
+649,"02:00:00 PM","07:59:59 PM",5.2847,"Network Energy Price","Winter Peak","CENTS_PER_KWH",21,"TRUE",132,"2019-06-01","2019-07-01",1
+650,"07:00:00 AM","01:59:59 PM",2.2747,"Network Energy Price","Shoulder 2 morning","CENTS_PER_KWH",22,"TRUE",132,"2019-04-01","2019-06-01",1
+651,"08:00:00 PM","09:59:59 PM",2.2747,"Network Energy Price","Shoulder 2 evening","CENTS_PER_KWH",22,"TRUE",132,"2019-04-01","2019-06-01",1
+652,"07:00:00 AM","01:59:59 PM",2.4197,"Network Energy Price","Shoulder 1 morning","CENTS_PER_KWH",22,"TRUE",132,"2018-09-01","2018-11-01",1
+653,"08:00:00 PM","09:59:59 PM",2.4197,"Network Energy Price","Shoulder 1 evening","CENTS_PER_KWH",22,"TRUE",132,"2018-09-01","2018-11-01",1
+657,"10:00:00 PM","11:59:59 PM",1.1047,"Network Charges","Off Peak","CENTS_PER_KWH",23,"TRUE",132,"2018-07-01","2019-07-01",1
+658,"12:00:00 AM","07:59:59 AM",1.1047,"Network Charges","Off Peak","CENTS_PER_KWH",23,"TRUE",132,"2018-07-01","2019-07-01",1
+659,"flat rate","flat rate",36.4566,"Network Charges","Capacity","CENTS_PER_KVA_PER_DAY",74,"FALSE",132,"2018-07-01","2019-07-01",1
+660,"flat rate","flat rate",1943.9619,"Network Charges","Network Access Charge","CENTS_PER_DAY",70,"TRUE",132,"2018-07-01","2019-07-01",1
+661,"flat rate","flat rate",1943.9619,"Network Charges","Network Access Charge","CENTS_PER_DAY",70,"FALSE",132,"2018-07-01","2019-07-01",1
+662,"12:00:00 AM","11:59:59 PM",1.1047,"Network Charges","Off Peak","CENTS_PER_KWH",105,"FALSE",132,"2018-07-01","2019-07-01",1
+663,"flat rate","flat rate",15,"Retail Charges","Test - Off Peak","CENTS_PER_KWH",3,"FALSE",133,"2023-07-01","2024-07-01",1
+664,"flat rate","flat rate",22,"Export","Feed in Tariff","EXPORT_CENTS_PER_KWH",178,"TRUE",133,"2023-07-01","2024-07-01",1
+665,"flat rate","flat rate",22,"Export","Feed in Tariff","EXPORT_CENTS_PER_KWH",178,"FALSE",133,"2023-07-01","2024-07-01",1
+666,"07:00:00 AM","08:59:59 AM",9.484,"Retail Charges","NSW Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",131,"2018-07-01","2019-07-01",1
+667,"05:00:00 PM","07:59:59 PM",9.484,"Retail Charges","NSW Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",131,"2018-07-01","2019-07-01",1
+668,"09:00:00 AM","04:59:59 PM",9.484,"Retail Charges","NSW Shoulder - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",131,"2018-07-01","2019-07-01",1
+669,"08:00:00 PM","09:59:59 PM",9.484,"Retail Charges","NSW Shoulder - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",131,"2018-07-01","2019-07-01",1
+670,"12:00:00 AM","11:59:59 PM",6.567,"Retail Charges","NSW Off-Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"FALSE",131,"2018-07-01","2019-07-01",1
+671,"10:00:00 PM","11:59:59 PM",6.567,"Retail Charges","NSW Off-Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",131,"2018-07-01","2019-07-01",1
+672,"12:00:00 AM","06:59:59 AM",6.567,"Retail Charges","NSW Off-Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",131,"2018-07-01","2019-07-01",1
+673,"07:00:00 AM","08:59:59 AM",9.484,"Retail Charges","NSW Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",130,"2019-07-01","2020-07-01",1
+674,"05:00:00 PM","07:59:59 PM",9.484,"Retail Charges","NSW Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",130,"2019-07-01","2020-07-01",1
+675,"09:00:00 AM","04:59:59 PM",9.484,"Retail Charges","NSW Shoulder - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",130,"2019-07-01","2020-07-01",1
+676,"08:00:00 PM","09:59:59 PM",9.484,"Retail Charges","NSW Shoulder - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",130,"2019-07-01","2020-07-01",1
+677,"12:00:00 AM","11:59:59 PM",6.567,"Retail Charges","NSW Off-Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"FALSE",130,"2019-07-01","2020-07-01",1
+678,"10:00:00 PM","11:59:59 PM",6.567,"Retail Charges","NSW Off-Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",130,"2019-07-01","2020-07-01",1
+679,"12:00:00 AM","06:59:59 AM",6.567,"Retail Charges","NSW Off-Peak - Feed In","EXPORT_CENTS_PER_KWH",178,"TRUE",130,"2019-07-01","2020-07-01",1
+680,"flat rate","flat rate",9,"Retail Charges","Feed in Tariff","EXPORT_CENTS_PER_KWH",178,"TRUE",134,"2018-01-01","2024-01-01",1
+681,"flat rate","flat rate",9,"Retail Charges","Feed in Tariff","EXPORT_CENTS_PER_KWH",178,"FALSE",134,"2018-01-01","2024-01-01",1
+682,"flat rate","flat rate",857.05,"Network Energy Price","Winter Demand","CENTS_PER_KVA_MONTH",32,"TRUE",98,"2019-07-01","2019-10-01",1
+683,"flat rate","flat rate",857.05,"Network Energy Price","Winter Demand","CENTS_PER_KVA_MONTH",32,"FALSE",98,"2019-07-01","2019-10-01",1
+684,"flat rate","flat rate",1003.45,"Network Energy Price","Summer Demand","CENTS_PER_KVA_MONTH",32,"FALSE",98,"2019-11-01","2020-03-01",1
+685,"flat rate","flat rate",1003.45,"Network Energy Price","Summer Demand","CENTS_PER_KVA_MONTH",32,"TRUE",98,"2019-11-01","2020-03-01",1
+686,"04:00:00 PM","07:59:59 PM",3.9541,"Network Energy Price","Summer Peak","CENTS_PER_KWH",21,"TRUE",98,"2019-11-01","2020-03-01",1
+687,"01:00:00 PM","07:59:59 PM",2.2687,"Network Energy Price","Peak","CENTS_PER_KWH",21,"TRUE",135,"2018-07-01","2019-07-01",1
+688,"12:00:00 AM","11:59:59 PM",2.0312,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"FALSE",135,"2018-07-01","2019-07-01",1
+689,"12:00:00 AM","7:00:00 AM",2.0312,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",135,"2018-07-01","2019-07-01",1
+690,"10:00:00 PM","11:59:59 PM",2.0312,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",135,"2018-07-01","2019-07-01",1
+691,"flat rate","flat rate",982.25,"Network Energy Price","Demand","CENTS_PER_KVA_MONTH",32,"TRUE",135,"2018-07-01","2019-07-01",1
+696,"flat rate","flat rate",1872.9,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"TRUE",135,"2018-07-01","2019-07-01",1
+697,"flat rate","flat rate",1872.9,"Network Access Charge","Network Access Charge","CENTS_PER_DAY",70,"FALSE",135,"2018-07-01","2019-07-01",1
+698,"flat rate","flat rate",982.25,"Network Energy Price","Demand","CENTS_PER_KVA_MONTH",32,"FALSE",135,"2018-07-01","2019-07-01",1
+699,"7:00:00 AM","12:59:59 PM",2.15,"Network Energy Price","Shoulder","CENTS_PER_KWH",22,"FALSE",135,"2018-06-30","2019-06-30",1
+700,"8:00:00 PM","9:59:59 PM",2.15,"Network Energy Price","Shoulder","CENTS_PER_KWH",22,"FALSE",135,"2018-06-30","2019-06-30",1
+701,"02:00:00 PM","07:59:59 PM",6.195,"Network Energy Price","Winter peak","CENTS_PER_KWH",21,"TRUE",132,"2018-07-01","2018-09-01",1
+702,"7:00:00 AM","8:59:59 AM",5.5161,"Network Energy Price","Peak","CENTS_PER_KWH",21,"TRUE",137,"2018-06-30","2020-06-30",1
+703,"5:00:00 PM","7:59:59 PM",5.5161,"Network Energy Price","Peak","CENTS_PER_KWH",21,"TRUE",137,"2018-06-30","2020-06-30",1
+704,"9:00:00 AM","4:59:59 PM",4.3921,"Network Energy Price","Shoulder","CENTS_PER_KWH",22,"TRUE",137,"2018-06-30","2020-06-30",1
+705,"8:00:00 PM","9:59:59 PM",4.3921,"Network Energy Price","Shoulder","CENTS_PER_KWH",22,"TRUE",137,"2018-06-30","2020-06-30",1
+706,"10:00:00 PM","11:59:59 PM",2.6187,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",137,"2018-06-30","2020-06-30",1
+707,"12:00:00 AM","06:59:59 AM",2.6187,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"TRUE",137,"2018-06-30","2020-06-30",1
+708,"12:00:00 AM","11:59:59 PM",2.6187,"Network Energy Price","Off Peak","CENTS_PER_KWH",23,"FALSE",137,"2018-06-30","2020-06-30",1
+709,"flat rate","flat rate",142.25,"Market Operator Charges","Network Charge","CENTS_PER_DAY",70,"FALSE",137,"2018-06-30","2020-06-30",1
+710,"flat rate","flat rate",142.25,"Market Operator Charges","Network Charge","CENTS_PER_DAY",70,"TRUE",137,"2018-06-30","2020-06-30",1
+711,"flat rate","flat rate",641.49,"Demand Charge","Network peak","CENTS_PER_KVA_MONTH",25,"FALSE",137,"2018-06-30","2020-06-30",1
+712,"flat rate","flat rate",641.49,"Demand Charge","Network peak","CENTS_PER_KVA_MONTH",25,"TRUE",137,"2018-06-30","2020-06-30",1
