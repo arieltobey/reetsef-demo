@@ -10,4 +10,4 @@ The reports were created in Microsoft Power BI Desktop available for download [h
 The source files from a sample data set are also supplied to enable users to understand how the data is structured to produce the reports. A user can manipulate the data within a KPI report by:
 
 1. Downloading the appropriate data file (.csv file with the same name as the one in the fields tab to the right of the Power BI Desktop screen)
-2. Changing the data source to the downloaded data file, instructions [here](https://community.powerbi.com/t5/Desktop/How-to-replace-Data-Source-for-existing-report/m-p/58947)
+2. Changing the data source to the downloaded data file, instructions [here](https://community.powerbi.com/t5/Desktop/How-to-replace-Data-Source-for-existing-report/m-p/58947).
