@@ -2,7 +2,7 @@ The following reports are a practical demonstration of key performance indicator
 
 The concepts presented may be used to report on the impact of a technology tested in a healthcare living laboratory. For context on the efficacy of KPIs used and their application, see the QUT report [here](https://ihub.org.au/wp-content/uploads/2020/06/LLHC1_Healthcare_Sector_REETSEF_V3.pdf).
 
-The reports were created in Microsoft Power BI Desktop. This program is required as a prerequisite to open the files using the following process:
+The reports were created in Microsoft Power BI Desktop available for download [here](https://powerbi.microsoft.com/en-us/downloads/). This program is required as a prerequisite to open the files using the following process:
 
 1. Download the specific KPI report file (.pbix)
 2. Open the file (must have Microsoft Power BI installed)
